@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi friend 👋
 - 🔭 I’m DevOps engineer and Blockchain Validator
 
 <!--
